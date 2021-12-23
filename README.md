@@ -36,8 +36,12 @@ The application currently is only capable of tracking the activities of only one
 
  The user can interact with the app through the diployed site or locally if they choose to download the files. After initial settup they should be able to see the data they save in the stats page displayed in graph form. See the images below for a demo of what the site should look like.
  
- 
- 
+ ##### Main Page
+ ![Workout Tracker Main Page](https://user-images.githubusercontent.com/84884625/147241964-da04712b-4221-4d99-ae65-318759604f2e.png)
+##### Stats Page
+ ![Workout Tracker Stats Page](https://user-images.githubusercontent.com/84884625/147241977-d8fb8369-f2f4-4800-af15-de2d5156249b.png)
+##### Creating a new Workout
+![Workout Tracker new workout](https://user-images.githubusercontent.com/84884625/147241991-19e505fd-64a6-4184-91f3-ba15b90034b5.png)
 
  ---
 
